@@ -42,3 +42,4 @@ displayscreen.blit(player_image, player_rect)
 [Icon Archive:](https://iconarchive.com/) mini game characters download <br>
 [Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) sounds <br>
 
+![Screenshot:](https://github.com/isoavalanche/PYGAME_basics/blob/main/1.png)
